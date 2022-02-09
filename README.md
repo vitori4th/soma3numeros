@@ -10,7 +10,7 @@ x0 + x1 + x2 = C"_
 
 ## Porque?
 
-Este programa foi feito junto com o professor Hokama durante a aula de estrutura de dados, do curso Sistemas da Informação, para praticar alocação dinâmica. 
+Este programa foi feito junto com o professor Hokama durante a aula de estrutura de dados, do curso Sistemas da Informação, para praticar recursão. 
 
 ## Começando
 
