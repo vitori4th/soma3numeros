@@ -23,19 +23,14 @@ Para rodar esse programa você precisa de um compilador C.
 **Clonando o Repositório**
 
 ```
-$ git clone git@github.com:Vitoria-th/Enumeracao.git
+$ git clone git@github.com:vitori4th/Enumeracao.git
 
 $ cd Enumeracao
 ```
 
 ### Rodando
 
-Com o compilador instalado, você pode rodar o programa:
-
-```
-Pressionando f11, para salvar e compilar o código.
-
-```
+Com o compilador instalado, você pode rodar o programa.
 
 ## Feito com
 
